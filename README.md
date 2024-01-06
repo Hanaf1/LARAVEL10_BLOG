@@ -1,6 +1,4 @@
-# Project Name
-
-Simple blog/article using laravel 10
+# Simple blog/article using laravel 10
 
 ## Introduction
 
